@@ -1,5 +1,4 @@
 # lol 对局先知
-## 等tx允许查询战绩再更新此项目.战绩都不让查 玩个蛇
 qq 群: 102158075
 
 网站: [https://lol.buffge.com](https://lol.buffge.com)
@@ -40,6 +39,21 @@ qq 群: 102158075
 - 优化lol.buffge.com网站
 - 配置:
    - 遇到特定用户 发送特定消息 比如 "遇霸不秒退,十五两行累" "西内!" "小心家猪野猪"
+  
+## Code signing policy
+- Free code signing provided by [SignPath.io](https://about.signpath.io/), certificate by [SignPath Foundation](https://signpath.org/)
+- Team roles and their members
+  - Committers and reviewers：[Members team](https://github.com/orgs/real-web-world/teams/members)
+  -  Approvers：[Owners](https://github.com/orgs/real-web-world/people?query=role%3Aowner)
+- [Privacy policy](https://lol.buffge.com/privacyPolicy.html)
+
+# Sponsors
+
+感谢以下赞助商 :heart:
+
+| ![signpath](https://signpath.org/assets/favicon-50x50.png) | Free code signing on Windows provided by [SignPath.io](https://about.signpath.io/),certficate by [SignPath Foundation](https://signpath.org/) |
+|------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+
 
 ## 🔋 JetBrains 开源证书支持
 
@@ -47,4 +61,4 @@ qq 群: 102158075
 
 <a href="https://www.jetbrains.com/?from=hh-lol-prophet" target="_blank"><img src="https://raw.githubusercontent.com/panjf2000/illustrations/master/jetbrains/jetbrains-variant-4.png" width="250" align="middle"/></a>  
 
-    
+
